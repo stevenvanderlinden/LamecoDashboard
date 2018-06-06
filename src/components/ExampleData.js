@@ -35,7 +35,7 @@ class Data extends Component {
   render() {
     return (
       <div>
-        DATA
+        DATA 
       </div>
     );
   }

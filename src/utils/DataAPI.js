@@ -1,3 +1,5 @@
+//Connection to API / Database etc is done here.
+
 import request from 'superagent/lib/client';
 
 export default {
